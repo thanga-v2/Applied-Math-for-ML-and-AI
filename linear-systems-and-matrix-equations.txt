@@ -1,0 +1,21 @@
+Linear Algebra - The Theory of Everything (Vectors, Matrix, Line, Areas and Space).
+
+2x + 3y = 5
+1x + 1y = 2
+
+Above is a system. 2 equeations, 2 Var
+
+what is a solutions of a system?
+A solutions of a system of linear equation is set of points, that makes every equation in the system true. eg : (x,y) = (1,1)
+
+A system of Linear Equaytions have either 
+1 solution, 
+0 solution or 
+Infinitely many solutions. (these are the only three possibilities)
+
+A linear system is consistent if it has 1 or Infinitely many solutions.
+else it is Inconsistent.
+
+Then how can we find a solution?
+
+Thats where Matrix comes into picture.
