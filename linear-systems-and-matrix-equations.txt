@@ -19,3 +19,17 @@ else it is Inconsistent.
 Then how can we find a solution?
 
 Thats where Matrix comes into picture.
+
+
+Row reduction and echelon form ref(A) : 
+
+row Echelon form : 
+
+1.All non zero rows are above zero rows
+2.Each leadin entry of a row is in a column to the right of the leading entry of a row
+3.all entries in a column below a leading entry are zero
+
+reduced row echeclon form rref (A) : 
+
+1.leading entry in each row should be 1
+2.each leading 1 is the only non zero enrty in column
