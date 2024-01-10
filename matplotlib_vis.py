@@ -26,10 +26,40 @@ attention = [69,70,15,100,90]
 # plt.show()
 
 #normal distribution
-ages = np.random.normal(20,2,1000)
-plt.hist(ages,
-         bins=[ages.min(),18,21,ages.max()])
-plt.show()
+# ages = np.random.normal(20,2,1000)
+# plt.hist(ages,
+#          bins=[ages.min(),18,21,ages.max()])
+# plt.show()
 
+
+# ax = plt.axes(projection="3d")
+#
+# x_axis = np.random.random(100)
+# y_axis = np.random.random(100)
+# z_axis = np.random.random(100)
+#
+# ax.set_title("learning 3d")
+# ax.set_xlabel("label for x axis")
+# ax.set_ylabel("label for y axis")
+# ax.set_zlabel("label for z axis")
+#
+# plt.scatter(x_axis,y_axis,z_axis)
+# plt.show()
+
+
+
+ax = plt.axes(projection="3d")
+
+x_axis = np.arange(1,11,0.1)
+y_axis = np.sin(x)
+z_axis = np.cos(x)
+
+# ax.set_title("learning 3d")
+# ax.set_xlabel("label for x axis")
+# ax.set_ylabel("label for y axis")
+# ax.set_zlabel("label for z axis")
+
+plt.plot(x_axis,y_axis,z_axis)
+plt.show()
 
 
