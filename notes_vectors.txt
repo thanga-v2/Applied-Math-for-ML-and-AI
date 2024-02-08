@@ -1,0 +1,3 @@
+Vectors - Magnitude + direction
+
+eg: 5 mph in east (mph - magnitude, east - direction)
