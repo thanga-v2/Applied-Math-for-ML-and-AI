@@ -1,0 +1,17 @@
+Number systems -
+
+Natural numbers (0,1,2,3....)
+Integers (...-3,-2,-1,0,1,2,3....)
+Rational numbers (4.5,6.7,8.9.....)
+Irrational numbers (3.148474848484.....,2.121212212.....)
+Real numbers (0.5,-4,3.14148575767....,1)
+Complex/Imaginary numbers (2i,5i......)
+
+
+Functions - 
+
+Expressions that defines the relationship between two or more variables
+
+f(x) = 2x + 1 is a continuous function i.e for every value x, we get value y. hence it is con. linear Functions
+f(x) = xsquare + 1 it is also a cont. but not linear 
+f(x,y) = 2x + 3y is a 3-d functions (x and y are independent varaibles and f(x,y) is dependant variables)
